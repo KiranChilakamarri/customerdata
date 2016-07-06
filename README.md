@@ -10,5 +10,5 @@ I have added 'Project-CustomerManagement-soapui-project.xml' to this project whi
 
 Same project is 7 zipped and uploaded here with name 'api.7z'.
 
-I have recorded deploying thee api's and running sample tests which can be found with name 'CRUD_customerdata.fbr' (Blackberry Flashback player is required to play this file)
+I have recorded deploying these api's and running sample tests which can be found with name 'CRUD_customerdata.fbr' (Blackberry Flashback player is required to play this file)
 
